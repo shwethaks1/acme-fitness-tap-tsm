@@ -39,7 +39,7 @@ spec:
   source:
     subPath: apps/acme-cart
     git:
-      url: https://github.com/gm2552/acme-fitness-store
+      url: https://github.com/shwethaks1/acme-fitness-store
       ref:
         branch: main
 ---
@@ -71,7 +71,7 @@ spec:
   source:
     subPath: apps/acme-order
     git:
-      url: https://github.com/gm2552/acme-fitness-store
+      url: https://github.com/shwethaks1/acme-fitness-store
       ref:
         branch: main
 ---
@@ -110,7 +110,7 @@ spec:
   source:
     subPath: apps/acme-shopping
     git:
-      url: https://github.com/gm2552/acme-fitness-store
+      url: https://github.com/shwethaks1/acme-fitness-store
       ref:
         branch: main
 ---
@@ -139,7 +139,7 @@ spec:
   source:
     subPath: apps/acme-identity
     git:
-      url: https://github.com/gm2552/acme-fitness-store
+      url: https://github.com/shwethaks1/acme-fitness-store
       ref:
         branch: main
 ---
@@ -172,7 +172,7 @@ spec:
   source:
     subPath: apps/acme-catalog
     git:
-      url: https://github.com/gm2552/acme-fitness-store
+      url: https://github.com/shwethaks1/acme-fitness-store
       ref:
         branch: main
 ---
@@ -198,6 +198,6 @@ spec:
   source:
     subPath: apps/acme-catalog
     git:
-      url: https://github.com/gm2552/acme-fitness-store
+      url: https://github.com/shwethaks1/acme-fitness-store
       ref:
         branch: main
